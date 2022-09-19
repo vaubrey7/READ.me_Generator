@@ -1,10 +1,10 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateReadMe = ({ github, linkedin, email, questions, MIT_License, GNU_GPLv3, Apache_2  }) =>
+const generateReadMe = ({ github, linkedin, email, questions, license }) =>
   `# ${(title)}
       
 
-  ## Description of Project
+  ## Description of Project 
   ${(description)}
   
   - What was your ${(motivation)}
@@ -47,7 +47,7 @@ const generateReadMe = ({ github, linkedin, email, questions, MIT_License, GNU_G
   - What is your ${(github)}
 
   
-  ${(MIT_License)} ${(GNU_GPLv3)} ${(Apache_2)}
+  ${(license)}
   
   
   `;
