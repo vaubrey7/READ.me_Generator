@@ -1,10 +1,14 @@
 {
-    "name": "name",
-    "description": "",
-    "authors": "",
+    "name": "static-site",
     "version": "1.0.0",
+    "description": "",
     "main": "index.js",
+    "scripts": {
+      "test": "Error: test \"npm Err \"no run && no start "
+    },
+    "author": "",
+    "license": "MIT",
     "dependencies": {
-        "inquirer": "8.2.4"
+      "inquirer": "8.2.4"
     }
-}
+  }
