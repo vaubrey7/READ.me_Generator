@@ -1,14 +1,10 @@
 {
-  "name": "static-site",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "inquirer": "8.2.4"
-  }
+    "name": "name",
+    "description": "",
+    "authors": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "inquirer": "8.2.4"
+    }
 }
