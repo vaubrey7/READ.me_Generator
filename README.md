@@ -28,7 +28,7 @@ Refer to this page for more tips regarding README:
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## Demonstration
-Watch this  to see the README Generator in action.
+Watch this https://youtu.be/tWbyJibtAJc to see the README Generator in action.
 
 ## Questions
 Please give any advice and reach out!
